@@ -1,1 +1,1 @@
-
+I used FreeCAD to create 5 parts: a base that holds and rotates the cube, a pushing part that helps changing the cube position during the execution of the solution, a part that "blocks" the two top layers of the cube during a rotation so that the base can only rotate one layer, and then two parts that support the blocking and pushing pieces.
